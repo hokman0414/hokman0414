@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Calvin so
-- 👀 I’m interested in Cybersecurity engineering/ analysing and dissecting threat groups
+- 👀 I’m interested in Cybersecurity engineering. I'm a current Cyber Threat Intelligence Analyst for a Financial institution.
 - 🌱 Main language fluent- Python 
 - 👀 Languages I could work with/familiar - HTML/CSS, SQL, Bash
 - 💞️ The page is where I dump to lazy scripts/interesting security scripts I thought be cool

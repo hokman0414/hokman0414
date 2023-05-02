@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Calvin so
 - 👀 I’m interested in Cybersecurity engineering/ analysing and dissecting threat groups
 - 🌱 Main language fluent- Python 
-- 👀 Languages I could work with/familiar - HTML/CSS, SQL, Java 
-- 💞️ The page is where I dump to lazy to remake scripts/interesting security scripts I thought be cool
+- 👀 Languages I could work with/familiar - HTML/CSS, SQL, Bash
+- 💞️ The page is where I dump to lazy scripts/interesting security scripts I thought be cool
 - 📫 How to reach me - https://www.linkedin.com/in/calvinso1/
 
 <!---
